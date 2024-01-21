@@ -1,5 +1,8 @@
 # Pet Adoption and Care Platform
 
+![1](https://github.com/AhmedHosny2/Staff-Help-Desk/assets/102544122/82f8a7d1-6f99-48d2-9994-c086e9343796)
+
+
 ## Milestone 1 Documentation by Ahmed Yehia, Youssef Elwy, Yahia Ehab, Bahy Mohamed, Feras Elkharrat, Ahmed Osama
 
 ### Project Idea Introduction
