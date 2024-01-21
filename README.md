@@ -3,6 +3,24 @@
 ![1](https://github.com/AhmedHosny2/Staff-Help-Desk/assets/102544122/82f8a7d1-6f99-48d2-9994-c086e9343796)
 
 
+
+
+##Home Page
+![2](https://github.com/AhmedHosny2/Staff-Help-Desk/assets/102544122/424642e7-3ce5-4d65-8011-5c2a1a9d72eb)
+
+
+
+##Search & Browse Pets Page
+![3](https://github.com/AhmedHosny2/Staff-Help-Desk/assets/102544122/af0d302d-e59f-4764-83cd-d2659e85ec5e)
+
+
+
+##Fully Responsive Website
+![4](https://github.com/AhmedHosny2/Staff-Help-Desk/assets/102544122/93f59b66-075b-4299-a58c-e83bdf6b7cc4)
+
+
+
+
 ## Milestone 1 Documentation by Ahmed Yehia, Youssef Elwy, Yahia Ehab, Bahy Mohamed, Feras Elkharrat, Ahmed Osama
 
 ### Project Idea Introduction
